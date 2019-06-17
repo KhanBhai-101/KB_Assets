@@ -169,19 +169,293 @@
       "thumbnail": "https://i.imgur.com/svLAw14.jpg"
 
     },
-    
+
     {
-      "author": "Kaique Rocha",
-      "url": "https://static.pexels.com/photos/53756/pexels-photo-53756.jpeg",
-      "name": "Night City Street",
-      "thumbnail": "https://images.pexels.com/photos/53756/pexels-photo-53756.jpeg?h=350&auto=compress&cs=tinysrgb"
+
+      "author": "DiegoPH",
+
+      "url": "https://i.imgur.com/yFZpKRl.jpg",
+
+      "name": "Drive Your Own Road",
+
+      "thumbnail": "https://i.imgur.com/yFZpKRl.jpg"
+
     },
-    
+
     {
-      "author": "No One",
-      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
-      "name": "Drops",
-      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+
+      "author": "DiegoPH",
+
+      "url": "https://i.imgur.com/AeuRCGK.jpg",
+
+      "name": "The Art Of Life",
+
+      "thumbnail": "https://i.imgur.com/AeuRCGK.jpg"
+
+    },
+
+    {
+
+      "author": "DiegoPH",
+
+      "url": "https://i.imgur.com/XSxbuBG.jpg",
+
+      "name": "Sailing With The Stars",
+
+      "thumbnail": "https://i.imgur.com/XSxbuBG.jpg"
+
+    },
+
+    {
+
+      "author": "Nafay",
+
+      "url": "https://i.imgur.com/mygsVGT.png",
+
+      "name": "On The Rooftop",
+
+      "thumbnail": "https://i.imgur.com/mygsVGT.png"
+
+    },
+
+    {
+
+      "author": "Nafay",
+
+      "url": "https://i.imgur.com/9fnjoiI.jpg",
+
+      "name": "Into The Galaxy",
+
+      "thumbnail": "https://i.imgur.com/9fnjoiI.jpg"
+
+    },
+
+    {
+
+      "author": "Nafay",
+
+      "url": "https://i.imgur.com/md16s7Z.jpg",
+
+      "name": "Swipes",
+
+      "thumbnail": "https://i.imgur.com/md16s7Z.jpg"
+
+    },
+
+    {
+
+      "author": "Nafay",
+
+      "url": "https://i.imgur.com/bUjiDgi.jpg",
+
+      "name": "Mars Madness",
+
+      "thumbnail": "https://i.imgur.com/bUjiDgi.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/XW9WCNF.jpg",
+
+      "name": "Rad Unicorn",
+
+      "thumbnail": "https://i.imgur.com/XW9WCNF.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/liM9IPX.jpg",
+
+      "name": "Rad Velociraptor",
+
+      "thumbnail": "https://i.imgur.com/liM9IPX.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/LtDAl6P.jpg",
+
+      "name": "Rad Bear",
+
+      "thumbnail": "https://i.imgur.com/LtDAl6P.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/RqiXqLI.jpg",
+
+      "name": "Elephant",
+
+      "thumbnail": "https://i.imgur.com/RqiXqLI.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/DPLzrNJ.jpg",
+
+      "name": "Red Hawk",
+
+      "thumbnail": "https://i.imgur.com/DPLzrNJ.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/MjYVfc0.jpg",
+
+      "name": "Rad Owl",
+
+      "thumbnail": "https://i.imgur.com/MjYVfc0.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/vHfk8Nk.jpg",
+
+      "name": "Rad Triceratops",
+
+      "thumbnail": "https://i.imgur.com/vHfk8Nk.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/hhm28SA.jpg",
+
+      "name": "Rad Tiger",
+
+      "thumbnail": "https://i.imgur.com/hhm28SA.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/18RYAFX.jpg",
+
+      "name": "Rad T-Rex",
+
+      "thumbnail": "https://i.imgur.com/18RYAFX.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/0mcqv9n.jpg",
+
+      "name": "Forgotten In Space",
+
+      "thumbnail": "https://i.imgur.com/0mcqv9n.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/YjR8Xr0.jpg",
+
+      "name": "Fox Yeah",
+
+      "thumbnail": "https://i.imgur.com/YjR8Xr0.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/2Zg0PLO.jpg",
+
+      "name": "Goatally",
+
+      "thumbnail": "https://i.imgur.com/2Zg0PLO.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/o5xJj7w.jpg",
+
+      "name": "Hell",
+
+      "thumbnail": "https://i.imgur.com/o5xJj7w.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/DxkorUe.jpg",
+
+      "name": "Rad King",
+
+      "thumbnail": "https://i.imgur.com/DxkorUe.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/Le1cXGk.jpg",
+
+      "name": "Rad Stag",
+
+      "thumbnail": "https://i.imgur.com/Le1cXGk.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/0NvQ9FI.jpg",
+
+      "name": "Rad Stinger",
+
+      "thumbnail": "https://i.imgur.com/0NvQ9FI.jpg"
+
+    },
+
+    {
+
+      "author": "Vincent Trinidad",
+
+      "url": "https://i.imgur.com/PQ8NxqZ.jpg",
+
+      "name": "Owl Yeah",
+
+      "thumbnail": "https://i.imgur.com/PQ8NxqZ.jpg"
+
     }
 
   ]
